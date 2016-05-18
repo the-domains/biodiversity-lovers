@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: In September 2015 Stanford News published that a team of scientists produced cancer drug from rare plant in lab to benefit human health. This work could lead to a more stable supply of the drug and allow scientists to manipulate that drug to make it even safer and more effective.
-datePublished: '2016-05-18T05:59:09.815Z'
-dateModified: '2016-05-18T05:58:58.259Z'
+datePublished: '2016-05-18T06:04:33.709Z'
+dateModified: '2016-05-18T05:59:17.021Z'
 title: ''
 author: []
 authors: []
