@@ -1,0 +1,28 @@
+name: biodiversity lovers
+favicon: null
+layout_spectrum: 0.08962094830349088
+typography_spectrum: 0.00267612817697227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16996154142543674
+  lightness: 0.24237131769768894
+  saturation: 0.9887836726848036
+  rhythmicContrast: 0.5813278197310865
+purpose: []
