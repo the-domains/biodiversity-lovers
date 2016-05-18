@@ -1,6 +1,6 @@
 name: biodiversity lovers
 favicon: null
-layout_spectrum: 0.00717
+layout_spectrum: 0.23873
 typography_spectrum: 0
 title: 'We are biodiversity lovers publishing content we discover in the real live and from the internet '
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.16996154142543674
   lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.5813278197310865
+  rhythmicContrast: 0.5
 purpose: []
