@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Owed to Nature:  Medicines from Tropical Forests JAN 26, 2013 ( extract taken from the rainforest trust website )'
-datePublished: '2016-05-18T06:17:43.110Z'
-dateModified: '2016-05-18T06:16:08.697Z'
+datePublished: '2016-05-18T06:17:59.632Z'
+dateModified: '2016-05-18T06:17:52.232Z'
 title: Mt Aggung jungle slopes Bali
 author:
   - name: Alex Kummerman
