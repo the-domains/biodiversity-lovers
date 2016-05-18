@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[We are biodiversity lovers publishing content we discover in the real live and from the internet ]]></title>
         <description><![CDATA[We are biodiversity lovers publishing content we discover in the real live and from the internet ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/biodiversity-lovers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 00:39:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 00:50:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/biodiversity-lovers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mantis Shrimp amazing strengh]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e8b0e4-52df-4112-bf47-b0d7a7a14302.jpg">]]></description>
+            <link>https://thegrid.ai/biodiversity-lovers/mantis-shrimp-amazing-strengh/index.html</link>
+            <guid isPermaLink="false">fe00615a-0415-478f-9944-1d36172ed94b</guid>
+            <pubDate>Wed, 18 May 2016 00:50:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biodiversity lovers first post]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e76141-74f6-420e-a4e1-57296931c605.jpg">]]></description>
-            <link>undefinedbiodiversity-lovers-first-post/index.html</link>
+            <link>https://thegrid.ai/biodiversity-lovers/biodiversity-lovers-first-post/index.html</link>
             <guid isPermaLink="false">2ea4246b-d72d-46cb-837b-5da7f33dc0e4</guid>
             <pubDate>Wed, 18 May 2016 00:38:56 GMT</pubDate>
         </item>
