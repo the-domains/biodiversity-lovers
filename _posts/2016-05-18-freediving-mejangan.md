@@ -6,12 +6,15 @@ isBasedOnUrl: 'https://kummerman.wistia.com/medias/n477idhjb1'
 inLanguage: null
 keywords: []
 description: Diving / Snorkeling arround Mejangan Island in North West Bali Indonesia. Nemo wonder
-datePublished: '2016-05-18T04:10:42.611Z'
-dateModified: '2016-05-18T04:08:13.835Z'
-author: []
+datePublished: '2016-05-18T06:22:16.921Z'
+dateModified: '2016-05-18T06:22:16.152Z'
+author:
+  - name: Alex Kummerman
+    url: ''
 related: []
 app_links: []
 title: Freediving Mejangan
+sourcePath: _posts/2016-05-18-freediving-mejangan.md
 authors: []
 publisher:
   name: 'Wistia, Inc.'
@@ -19,7 +22,6 @@ publisher:
   url: 'https://wistia.com'
   favicon: 'https://kummerman.wistia.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-18-freediving-mejangan.md
 _context: 'http://schema.org'
 _type: MediaObject
 
