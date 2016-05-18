@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Nature wonder : This Mantis shrimp utilize a dactyl club to smash open the shells of many impressive oceanic biominerals'
-datePublished: '2016-05-18T01:32:01.999Z'
-dateModified: '2016-05-18T01:31:53.691Z'
+datePublished: '2016-05-18T06:22:34.039Z'
+dateModified: '2016-05-18T06:16:14.453Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: mantis-shrimp-amazing-strengh/index.html
 _type: Article
 
