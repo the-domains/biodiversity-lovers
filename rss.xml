@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We are biodiversity lovers publishing content we discover in the real live and from the internet ]]></title>
+        <description><![CDATA[We are biodiversity lovers publishing content we discover in the real live and from the internet ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 00:39:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Biodiversity lovers first post]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e76141-74f6-420e-a4e1-57296931c605.jpg">]]></description>
+            <link>undefinedbiodiversity-lovers-first-post/index.html</link>
+            <guid isPermaLink="false">2ea4246b-d72d-46cb-837b-5da7f33dc0e4</guid>
+            <pubDate>Wed, 18 May 2016 00:38:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
