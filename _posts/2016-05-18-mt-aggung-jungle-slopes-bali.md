@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Owed to Nature: Medicines from Tropical Forests JAN 26, 2013 (extract taken from the rainforest trust website)'
-datePublished: '2016-05-19T12:03:31.650Z'
-dateModified: '2016-05-19T11:48:20.066Z'
+description: 'Owed to Nature: Medicines from Tropical Forests JAN 26, 2013 (extract taken from the rainforest trust website) Nearly 90% of human diseases known to medical science can be treated with prescription drugs derived from nature. The benefits to humanity of nature-derived medicines are incalculable in terms of longevity, relief of suffering, and increase in the quality of life. And think of the hundreds of thousands of jobs provided to those that discover, grow, harvest, process, and market these medicinals. Billions upon billions of dollars have flowed into the world economy due to prescription medications arising from the planet’s largess of biological diversity.Really :Read the article from the Rainforest Trust to learn more'
+datePublished: '2016-05-19T12:05:31.421Z'
+dateModified: '2016-05-19T12:03:54.084Z'
 title: Mt Aggung jungle slopes Bali
 author:
   - name: Alex Kummerman
@@ -21,9 +21,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a8da96-eb39-4c61-a7bd-060fe5f4d2b0.jpg)
 
-Owed to Nature:  
-Medicines from Tropical Forests JAN 26, 2013 ([extract taken from the rainforest trust website][0])
-
-Nearly 90% of human diseases known to medical science can be treated with prescription drugs derived from nature. The benefits to humanity of nature-derived medicines are incalculable in terms of longevity, relief of suffering, and increase in the quality of life. And think of the hundreds of thousands of jobs provided to those that discover, grow, harvest, process, and market these medicinals. Billions upon billions of dollars have flowed into the world economy due to prescription medications arising from the planet's largess of biological diversity.Really :[Read the article from the Rainforest Trust to learn more][0]
+Owed to Nature: Medicines from Tropical Forests JAN 26, 2013 ([extract taken from the rainforest trust website][0]) Nearly 90% of human diseases known to medical science can be treated with prescription drugs derived from nature. The benefits to humanity of nature-derived medicines are incalculable in terms of longevity, relief of suffering, and increase in the quality of life. And think of the hundreds of thousands of jobs provided to those that discover, grow, harvest, process, and market these medicinals. Billions upon billions of dollars have flowed into the world economy due to prescription medications arising from the planet's largess of biological diversity.Really :[Read the article from the Rainforest Trust to learn more][0]
 
 [0]: https://www.rainforesttrust.org/news/owed-to-nature-medicines-from-tropical-forests/
