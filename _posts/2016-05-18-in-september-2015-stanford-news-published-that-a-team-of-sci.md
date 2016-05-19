@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: In September 2015 Stanford News published that a team of scientists produced cancer drug from rare plant in lab to benefit human health. This work could lead to a more stable supply of the drug and allow scientists to manipulate that drug to make it even safer and more effective. See in the Article from Stanford News how chemical engineer Elizabeth Sattely and her team have isolated the machinery for making a widely used cancer-fighting drug from the endangered mayapple plant.
-datePublished: '2016-05-19T12:05:44.089Z'
-dateModified: '2016-05-19T12:02:57.513Z'
+datePublished: '2016-05-19T12:07:38.924Z'
+dateModified: '2016-05-19T12:07:34.267Z'
 title: American Mayapple
 author:
   - name: ''
@@ -23,4 +23,6 @@ _type: Article
 
 In September 2015 Stanford News published that a team of scientists produced cancer drug from rare plant in lab to benefit human health.  
 This work could lead to a more stable supply of the drug and allow scientists to manipulate that drug to make it even safer and more effective.  
-See in the Article from Stanford News how chemical engineer Elizabeth Sattely and her team have isolated the machinery for making a widely used cancer-fighting drug from the endangered mayapple plant.
+[See in the Article from Stanford News how chemical engineer Elizabeth Sattely and her team have isolated the machinery for making a widely used cancer-fighting drug from the endangered mayapple plant.][0]
+
+[0]: https://news.stanford.edu/2015/09/10/plants-drug-sattely-091015/
