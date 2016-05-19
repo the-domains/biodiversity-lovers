@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Owed to Nature: Medicines from Tropical Forests JAN 26, 2013 (extract taken from the rainforest trust website)'
-datePublished: '2016-05-18T06:22:03.158Z'
-dateModified: '2016-05-18T06:21:45.737Z'
+datePublished: '2016-05-19T12:03:31.650Z'
+dateModified: '2016-05-19T11:48:20.066Z'
 title: Mt Aggung jungle slopes Bali
 author:
   - name: Alex Kummerman
     url: ''
 sourcePath: _posts/2016-05-18-mt-aggung-jungle-slopes-bali.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: mt-aggung-jungle-slopes-bali/index.html
 _type: Article
