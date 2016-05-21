@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "« Mother Nature has been doing her chemistry over the last 3 billion years ! » The first modern antibiotic, penicillin, comes from a fungus. Ancient Greeks used molds to fight infections. Polynesian seafarers and 14th-century Chinese people derived painkillers from reef creatures. And in recent years we've learned much more about how to extract chemicals and medicines from natural sources. \"Mother Nature has been doing her chemistry over the last 3 billion years,\" says David Newman, the former chief of the Natural Products Branch of the National Cancer Institute. \"She isn't making anti-tumor compounds,\" he explains, but the same chemical that a sea sponge uses to fight predators might also be able to kill cancer cells or viruses. Cone snail venom is now being used as a painkiller — one that's 50 times more potent than morphine — that eliminates phantom limb pain in amputees. Tunicates, marine invertebrates frequently found around coral reefs, provide anticancer and antiviral chemicals. AZT, the first effective drug against AIDS, comes from a chemical produced in a lab, but the chemical was first "
-datePublished: '2016-05-21T07:00:50.681Z'
-dateModified: '2016-05-21T06:58:58.553Z'
-title: ''
-author: []
+datePublished: '2016-05-21T07:38:05.831Z'
+dateModified: '2016-05-21T07:01:00.207Z'
+title: Mejangan Coral Reef
+author:
+  - name: Alex Kummerman
+    url: ''
 sourcePath: _posts/2016-05-21-of-the-national-cancer-institute-she-isnt-making-anti-tu.md
 authors: []
 publisher: null
